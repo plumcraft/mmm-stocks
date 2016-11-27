@@ -2,7 +2,7 @@
 'use strict';
 
 
-Module.register("stocks", {
+Module.register("mmm-stocks", {
 
     result: [],
 	// Default module config.
