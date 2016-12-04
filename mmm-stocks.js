@@ -12,7 +12,7 @@ Module.register("mmm-stocks", {
 	},
 
     getStyles: function() {
-		return ["stocks.css"];
+		return ["mmm-stocks.css"];
 	},
 
     start: function() { 
